@@ -32,6 +32,9 @@ HDWebmobile Back In Stock & Waitlist adds a "Notify Me" signup to out-of-stock p
 * Fair batching depends on the product tracking a real stock quantity; if stock isn't managed, all waiting subscribers are notified at once
 * The manual "Notify next batch" admin action runs synchronously on click; very large pending waitlists (several hundred+) could approach PHP's execution time limit
 
+= Enjoying this plugin? =
+If it helps your site, please consider [leaving an honest review on WordPress.org](https://wordpress.org/support/plugin/hdwebmobile-back-in-stock-waitlist/reviews/#new-post) -- it helps other WordPress users find it. Found a problem or have an idea? Please [open a support topic](https://wordpress.org/support/plugin/hdwebmobile-back-in-stock-waitlist/) first so it can be fixed.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hdwebmobile-back-in-stock-waitlist` directory, or install the plugin through the WordPress plugins screen directly.
