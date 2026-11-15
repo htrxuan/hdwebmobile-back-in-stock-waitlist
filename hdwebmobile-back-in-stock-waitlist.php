@@ -4,7 +4,7 @@
  * Plugin Name: HDWebmobile Back In Stock & Waitlist
  * Plugin URI: https://hdwebmobile.com/plugins/hdwebmobile-back-in-stock-waitlist/
  * Description: Let customers join a waitlist for out-of-stock products and variations, and reliably notify them when restocked.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: htrxuan - Han Tran
  * Author URI: https://hdwebmobile.com/
  * License: GPLv2 or later
@@ -23,7 +23,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Define Constants
-define('HDBIS_VERSION', '1.0.2');
+define('HDBIS_VERSION', '1.0.3');
 define('HDBIS_DB_VERSION', '1.0.0');
 define('HDBIS_PLUGIN_FILE', __FILE__);
 define('HDBIS_PLUGIN_DIR', plugin_dir_path(__FILE__));

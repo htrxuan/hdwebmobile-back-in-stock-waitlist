@@ -5,7 +5,7 @@ Tags: woocommerce, back in stock, waitlist, restock notification, notify me
 Requires at least: 6.9
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 Requires Plugins: woocommerce
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -71,6 +71,9 @@ Every notification email includes a one-click unsubscribe link that needs no log
 3. The WooCommerce > Waitlist admin screen — signups move from "Waiting" to "Notified" once the restock email goes out.
 
 == Changelog ==
+
+= 1.0.3 =
+* The WooCommerce > HDWebmobile Overview page now has a short introduction to Store Guardian, a separate paid plugin that test-buys from your checkout every hour. It is hidden once Store Guardian is active. No changes to this plugin's own features.
 
 = 1.0.2 =
 * Confirmed compatibility with WordPress 7.1.
